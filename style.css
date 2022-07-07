@@ -173,15 +173,18 @@ body {
 
 #donate-plan-one {
     background-color: #edf5f6;
+    border-radius: 5px;
 }
 
 #donate-plan-two {
     background-color: #FFEEEE;
+    border-radius: 5px;
 }
 
 
 #donate-plan-three {
     background-color: #FFF4D6;
+    border-radius: 5px;
 }
 
 #donate-plan-flex div h3 {
